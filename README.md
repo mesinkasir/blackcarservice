@@ -8,15 +8,15 @@ Premium Sveltekit car : [https://cybercar.vercel.app](https://cybercar.vercel.ap
 
 Documentation : [https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html](https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html)
 
-![blackcarservice](sc3)
+![blackcarservice](sc3.png)
 
 Home Page
 
-![blackcarservice](sc1)
+![blackcarservice](sc1.png)
 
 Fleet Gallery
 
-![blackcarservice](sc2)
+![blackcarservice](sc2.png)
 
 Mobile display
 
