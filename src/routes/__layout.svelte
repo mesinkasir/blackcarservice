@@ -10,7 +10,7 @@
 <Nav />
 <main class="container mt-5">
 	<div class="row">
-		<div class="col-md-7 p-3 p-md-5 opacity-75">
+		<div class="col-md-7 p-3 p-md-5">
 			<Header/>
 		<hr/>
 		<Button/>
