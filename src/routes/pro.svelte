@@ -2,7 +2,7 @@
 	import data from '../data/page.json';
 	import Hero from '$lib/widget/Hero.svelte';
     let title= 'Black car service limousine car rental website creation - web development';
-    let description = '';
+    let description = 'website creation for car, limousine, and vehicle rental services - web development with new technology';
     let blackcar = 'Black Car Premium PRO Version →';
     let blackurl = 'https://blackcar.axcora.com';
     let cybercar = 'Cyber Car Website Template PRO →';
@@ -14,7 +14,7 @@
 
 
 <svelte:head>
-    <title>{data.title}</title> 
+    <title>{title}</title> 
 <meta content='{title}' property='og:title'/>
 <meta content='{title} ' name='twitter:title'/>
 <meta content='{title}' name='keywords'/>

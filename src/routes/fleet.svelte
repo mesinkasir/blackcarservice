@@ -7,7 +7,7 @@
 
 
 <svelte:head>
-    <title>{data.title}</title> 
+    <title>{data.fleettitle}</title> 
 <meta content='{data.fleettitle}' property='og:title'/>
 <meta content='{data.fleettitle} ' name='twitter:title'/>
 <meta content='{data.fleettitle}' name='keywords'/>
