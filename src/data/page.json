@@ -23,7 +23,7 @@
     "hometext1": "Free download full source code for car service, limousine service, rent car and more... , just download and install on your device, or upload and deploy on your cloud hosting.",
     "hometext2": "Download complete source code project on our github repo , or you can use terminal shell with run",
     "homedownload": "Github Download",
-    "homedownloadurl": "/",
+    "homedownloadurl": "https://github.com/mesinkasir/blackcarservice/archive/refs/heads/main.zip",
     "homeinstall": "And you need to install this project with run",
     "homerun": "After installation we need to run this project so you can run",
     "homerun1": "open localhost:5173 on web browser, and congratulations now your blackcar website is successfully run on your device.",
