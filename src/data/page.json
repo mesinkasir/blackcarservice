@@ -10,7 +10,7 @@
     "tweet": "@hockeycomp",
     "author": "Black Car Service",
 
-    "cover": "img/blackcarservice.webp",
+    "cover": "https://blackcarservice.vercel.app/img/blackcarservice.webp",
     
     "menu1": "/",
     "menu2": "/about",
