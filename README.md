@@ -11,6 +11,12 @@ Car site with gatsby : [https://limoweb.vercel.app](https://limoweb.vercel.app)
 
 Documentation : [https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html](https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html)
 
+---------------------------------------------
+
+![blackcar lighthouse](lighthouse.png)
+
+Lighthouse report
+
 ![blackcarservice](sc3.png)
 
 Home Page
@@ -32,7 +38,16 @@ built with sveltekit feat vite
 + svelte:head SEO
 + JSON file
 
+Demo : [https://blackcarservice.vercel.app](https://blackcarservice.vercel.app/)
 
+Demo SSG : [https://blackcar.axcora.com](https://blackcar.axcora.com)
+
+Premium Sveltekit car : [https://cybercar.vercel.app](https://cybercar.vercel.app)
+
+Car site with gatsby : [https://limoweb.vercel.app](https://limoweb.vercel.app)
+
+
+Documentation : [https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html](https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html)
 
 
 
