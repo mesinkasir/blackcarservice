@@ -1,0 +1,67 @@
+{
+    "title": "Black Car Service",
+    "description": "Free Download Website template for car service, limousine service, full source code.",
+    "url": "/",
+    "url1": "https://blackcar.axcora.com/",
+    "url2": "https://github.com/mesinkasir/blackcarservice",
+
+    "facebook": "https://www.facebook.com/mesinkasircomplete",
+    "twitter": "https://twitter.com/hockeycomp",
+    "tweet": "@hockeycomp",
+    "author": "Black Car Service",
+    
+    "menu1": "/",
+    "menu2": "/about",
+    "menu3": "/fleet",
+    "menu4": "/pro",
+    "menu1text": "Home",
+    "menu2text": "About",
+    "menu3text": "Fleet",
+    "menu4text": "PRO",
+
+    "homeintro": "Welcome to black car service website themes template , built your website with modern technology using svelte kit, this is a open source code , so you can change content, image, code and anything with your own , the freedom of source code !!",
+    "hometext1": "Free download full source code for car service, limousine service, rent car and more... , just download and install on your device, or upload and deploy on your cloud hosting.",
+    "hometext2": "Download complete source code project on our github repo , or you can use terminal shell with run",
+    "homedownload": "Github Download",
+    "homedownloadurl": "/",
+    "homeinstall": "And you need to install this project with run",
+    "homerun": "After installation we need to run this project so you can run",
+    "homerun1": "open localhost:5173 on web browser, and congratulations now your blackcar website is successfully run on your device.",
+    "homedoc": "Or you can read documentation how to install this project on our blog , visit now",
+    "homedocs": "how to install free black car source code →",
+    "homedocurl": "https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html",
+    "homecode1": "git clone https://github.com/mesinkasir/blackcarservice.git",
+    "homecode2": "npm install",
+    "homecode3": "npm run dev",
+
+    "abouttitle": "About Black Car Service Free Theme",
+    "abouttext1": "This is a free theme that can be used for car service businesses, limousine services, and car rentals, of course all related to transportation businesses can use it.",
+    "abouttext2": "Built using modern website technology with ",
+    "abouttext2a": "for a fast and light solution in its use. Using full json for ease of programmatic , so you can modify and adapt it to your needs.",
+    "abouttext3": "and this is a free download black car service for the full open source code we share for the world.",
+    "abouttext4": "SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.",
+    "abouttext5": "So by using this free download template themes full source code, you are one step ahead by using the latest technology in developing a site.",
+
+    "fleettitle": "This is the black car service fleet page",
+    "fleetdescription": "Free download and open source code car, limousine service website template",
+
+    "prem": "If you need a premium version with our support so you can order our custom web development services, premium themes for car and limousine services with unique design and full SEO injection, and touch green score on lighthouse.",
+    "hire": "Hire Me Now",
+    "hireurl": "https://www.fiverr.com/creativitas/create-your-website-with-new-technology",
+
+    "try": "Try Pro Version",
+
+    "protext1" : "Premium service with best themes and full of SEO. and has a nice structure on the lighthouse.",
+    "protext2" : "In addition you can also migrate from your old site to the new site.",
+    "protext3" : "Here is the premium black car service website template, Just click and visit website demo",
+    "protext4" : "And of course you can request your favorite website technology for your site development needs. with modern technology single page applications: gatsby js, react, angular, svelte and SSG eleventy generation, astro, jekyll and using CMS without database with MODX revolution, Pico CMS and get axcora,or Laravel, Django and Native PHP.",
+
+    "address" : "Hollywood, USA",
+    "phone" : "+6285646104747",
+    "email" : "axcora@gmail.com",
+
+    "proj": " - A project present by ",
+    "creativitas": "creativitas",
+    "slug": "https://www.fiverr.com/creativitas"
+
+    }
