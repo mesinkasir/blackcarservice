@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+# BLACK CAR SERVICE WEBSITE TEMPLATE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/blackcarservice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Demo : [https://blackcarservice.vercel.app](https://blackcarservice.vercel.app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo SSG : [https://blackcar.axcora.com](https://blackcar.axcora.com)
 
-### Markdown
+Premium Sveltekit car : [https://cybercar.vercel.app](https://cybercar.vercel.app)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Car site with gatsby : [https://limoweb.vercel.app](https://limoweb.vercel.app)
 
-```markdown
-Syntax highlighted code block
+Video demo [https://youtu.be/-3PY545EgBM](https://youtu.be/-3PY545EgBM)
 
-# Header 1
-## Header 2
-### Header 3
+Documentation : [https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html](https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html)
 
-- Bulleted
-- List
+---------------------------------------------
 
-1. Numbered
-2. List
+![blackcar lighthouse](https://github.com/mesinkasir/blackcarservice/raw/main/lighthouse.png)
 
-**Bold** and _Italic_ and `Code` text
+Lighthouse report
 
-[Link](url) and ![Image](src)
+![blackcarservice](https://github.com/mesinkasir/blackcarservice/raw/main/sc3.png)
+
+Home Page
+
+![blackcarservice](https://github.com/mesinkasir/blackcarservice/raw/main/sc1.png)
+
+Fleet Gallery
+
+![blackcarservice](https://github.com/mesinkasir/blackcarservice/raw/main/sc2.png)
+
+Mobile display
+
+
+------------------------------
+
+
+built with sveltekit feat vite
++ bootstrap
++ svelte:head SEO
++ JSON file
+
+Demo : [https://blackcarservice.vercel.app](https://blackcarservice.vercel.app/)
+
+Demo SSG : [https://blackcar.axcora.com](https://blackcar.axcora.com)
+
+Premium Sveltekit car : [https://cybercar.vercel.app](https://cybercar.vercel.app)
+
+Car site with gatsby : [https://limoweb.vercel.app](https://limoweb.vercel.app)
+
+
+Documentation : [https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html](https://www.hockeycomputindo.com/2022/07/blackcar-service-free-template-download.html)
+
+
+Video demo [https://youtu.be/-3PY545EgBM](https://youtu.be/-3PY545EgBM)
+
+
+--------------------------------
+
+
+# create-svelte
+
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+
+## Creating a project
+
+If you're seeing this, you've probably already done this step. Congrats!
+
+```bash
+# create a new project in the current directory
+npm init svelte
+
+# create a new project in my-app
+npm init svelte my-app
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Developing
 
-### Jekyll Themes
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/blackcarservice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```bash
+npm run dev
 
-### Support or Contact
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
